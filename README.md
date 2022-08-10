@@ -1,4 +1,4 @@
-#### MovieAPI — обертка кинопоиска и kinobd для Python. 
+### MovieAPI — обертка кинопоиска и kinobd для Python. 
 
 ------
 
